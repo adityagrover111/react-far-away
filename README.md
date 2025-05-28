@@ -3,6 +3,8 @@ A React app that allows travellers to add items they need for their next trip Th
 
 ### `npm start`
 
+Live- https://react-far-away-1zbv.vercel.app/
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
